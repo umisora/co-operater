@@ -1,13 +1,18 @@
--- in English --
 # co-operater
+-- in English
 
 Bot who calls me when I'm working alone
+
 For example, if you put a linux command on slack, if it is a dangerous command
+
 There is a thing calling out "Please be careful!"
 
--- in Japanese --
+-- in Japanese
+
 一人運用作業をしている時に声をかけてくれるBot
+
 例えばlinuxコマンドをslackに貼ったとすると、危ないコマンドなら
+
 「気をつけてね！」と声をかけてくれる事がある。
 
 
