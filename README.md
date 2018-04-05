@@ -17,6 +17,7 @@ There is a thing calling out "Please be careful!"
 
 ## How to deploy Heroku
 [python3でslackbotの作成\(その6:デプロイ編\) \- Qiita](https://qiita.com/thimi0412/items/aa0b0f28896fe4d364b3#_reference-8e53d2e60b9037be0a3d)
+
 [python3でslackbotの作成\(その5:Heroku設定編\) \- Qiita](https://qiita.com/thimi0412/items/852ee9bbfd8b1dd3c072)
 
 `heroku ps:scale python_bot=1`
