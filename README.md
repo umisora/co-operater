@@ -26,3 +26,16 @@ There is a thing calling out "Please be careful!"
 [python3でslackbotの作成\(その5:Heroku設定編\) \- Qiita](https://qiita.com/thimi0412/items/852ee9bbfd8b1dd3c072)
 
 `heroku ps:scale python_bot=1`
+
+## How to test
+
+### require
+```
+pip3 install slackbot
+```
+
+### Test Run on Local
+```
+export SLACKBOT_API_TOKEN=xxxxxxxxxx
+python3 run.py
+```
