@@ -24,7 +24,7 @@ def aitalk(message):
     content = json.loads(response.read().decode('utf8'))
     status = content['status']
 
-    if status == 200:
+    if status == 0:
         print(content)
         for x in content['results']:
             reply_msg = x['reply']
